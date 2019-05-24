@@ -1,0 +1,43 @@
+.green {
+    /* background-color: #25b631; */
+    background-color: #57ce79;
+}
+
+.white {
+    background-color: white;
+}
+
+.success {
+    width: 90px;
+    margin: auto;
+}
+
+.success-msg {
+    color: #57ce79;
+    letter-spacing: 3px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.amount {
+    color: #555555;
+    text-align: center;
+    margin: 20px 0px;
+}
+
+.details {
+    margin: 10px 0px;
+    color: #444444;
+}
+
+.failure {
+    width: 90px;
+    margin: auto;
+}
+
+.failure-msg {
+    color: red;
+    letter-spacing: 3px;
+    text-align: center;
+    margin-top: 30px;
+}

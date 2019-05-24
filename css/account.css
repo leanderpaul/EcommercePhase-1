@@ -1,0 +1,86 @@
+body .account {
+    margin-top: 100px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.account, .payment {
+    box-shadow: 0px 0px 10px gray;
+}
+
+.account-title {
+    font-family: fantasy;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+body .payment {
+    margin-top: 50px;
+    background-color: white;
+    border-radius: 5px;
+    margin-bottom: 100px;
+}
+
+.form-row .form-control {
+    margin-left: 10px;
+}
+
+.form label {
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.form span {
+    padding-top: 4px;
+    padding-bottom: 3px;
+}
+
+.edit {
+    margin-right: 20px;
+    margin-left: auto;
+}
+
+.edit {
+    cursor: pointer;
+}
+
+.invisible {
+    visibility: hidden;
+}
+
+.item {
+    height: 200px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.modal-custom {
+    width: 800px;
+}
+
+.modal-img {
+    width: 100%;
+    height: 100%;
+}
+
+.modal-img-container {
+    padding-right: 0px;
+}
+
+.viewBill {
+    cursor: pointer;
+}
+
+.bill-footer {
+    border-top: 1px solid #8f8f8f;
+    margin: 20px;
+}
+
+.total {
+    font-size: 20px;
+    font-weight: bold;
+}

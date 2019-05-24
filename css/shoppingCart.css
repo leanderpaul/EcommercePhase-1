@@ -1,0 +1,99 @@
+.product-img {
+    height: 100px;
+    width: 100px;
+}
+
+.bag {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px gray;
+}
+
+.bag-title {
+    font-family: fantasy;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 0px;
+}
+
+.item .img {
+    text-align: center;
+    margin-top: 25px;
+    margin-left: 25px;
+    height: 150px;
+    width: 150px;
+}
+
+.item .product {
+    margin-left: 25px;
+    width: 82%;
+    height: 50px;
+    line-height: 50px;
+    border-bottom: 1px solid lightgray;
+} 
+
+.product .title {
+    font-size: 18px;
+}
+
+.product .total-price {
+    font-size: 20px;
+    text-align: right;
+    vertical-align: middle;
+}
+
+.product .description {
+    margin-top: 10px;
+    line-height: 20px;
+}
+
+.remove {
+    text-align: right;
+    padding-right: 0px;
+}
+
+.item .quantity {
+    text-align: end;
+    width: 40px;
+    margin: 12px 0px; 
+    height: 25px;
+    -webkit-appearance: textfield;
+    border-radius: 5px;
+}
+
+.item {
+    height: 200px;
+    border-bottom: 1px solid lightgray;
+    margin: 0px 2px;
+}
+
+.charges {
+    font-size: 18px;
+    color: gray;
+    text-align: end;
+}
+
+.sub-charges {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.total {
+    margin-top: 10px;
+    font-size: 25px;
+    text-align: end;
+}
+
+.checkout {
+    border-top: 1px solid lightgray;
+}
+
+.btn {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 915px;
+    width: 200px;
+}

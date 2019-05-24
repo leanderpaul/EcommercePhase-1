@@ -1,0 +1,43 @@
+.shippingAddress {
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    margin-left: 20px;
+    box-shadow: 0px 0px 10px gray;
+}
+
+.body {
+    background-color: white;
+    border-radius: 5px;
+    margin-top: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 100px;
+}
+
+.cart {
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    height: 300px;
+    margin-left: 50px;
+    padding: 0px;
+    box-shadow: 0px 0px 10px gray;
+}
+
+.title {
+    font-family: fantasy;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 0px;
+}
+
+.panel .title {
+    background-color: whitesmoke;
+    padding-left: 20px;
+}
+
+.submit {
+    cursor: pointer;
+}

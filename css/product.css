@@ -1,0 +1,39 @@
+body {
+    background-color: white;
+}
+
+.product {
+    border: #dddddd solid 1px;
+}
+
+.description {
+    font: normal normal normal 15px/1.4em proxima-n-w01-reg,sans-serif;
+    color: #555555;
+    padding-left: 30px;
+}
+
+.quantity {
+    font-size: 13px;
+    margin: 2px;
+}
+
+.quantity-input {
+    border: #999999 solid 1px;
+    height: 30px;
+    padding: 7px;
+    width: 50px;
+    -webkit-appearance: textfield;
+}
+
+.add-to-cart {
+    width: 300px;
+    height: 40px;
+    margin: 20px 0px;
+    background-color: #663898;
+    color: white;
+    cursor: pointer;
+}
+
+.add-to-cart:hover {
+    opacity: .7;
+}

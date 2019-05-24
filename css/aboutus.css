@@ -1,0 +1,41 @@
+.aboutus-title {
+    font-family: dinneuzeitgroteskltw01-_812426,sans-serif;
+    font-size: 90px;
+    padding-left: 65px;
+}
+
+.about-row {
+    margin-bottom: 0px;
+}
+
+.body {
+    margin-top: 100px;
+    background-color: white;
+    padding-bottom: 40px;    
+}
+
+.content {
+    padding-top: 70px;
+    height: 950px;
+}
+
+.right-content {
+    font: normal normal normal 24px proxima-n-w01-reg,sans-serif;
+}
+
+.container .card {
+    margin-bottom: 30px;
+}
+
+.left-content {
+    font-family: open sans,sans-serif;
+    font-weight: bold;
+    line-height: 1.4em;
+    font-size: 32px;
+    padding-left: 55px;
+}
+
+.about {
+    color: #414141;
+    border-left: 8px solid black;
+}
