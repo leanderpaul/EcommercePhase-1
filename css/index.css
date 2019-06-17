@@ -147,8 +147,8 @@ hr.style14 {
 .about-content {
 	font-family: 'proxima';
 	color: black;
-	padding-left: 50px;
-	padding-right: 50px;
+	padding-left: 100px;
+	padding-right: 100px;
 }
 
 .row-5-image {
@@ -214,6 +214,44 @@ hr.style14 {
 @media only screen and (max-width: 600px) {
 	.gap {
 		margin-bottom: 30px;
+	}
+
+	.padding-banner {
+		padding: 25px;
+	}
+
+	.row-2-image-2 .white {
+		margin-top: 10px !important;
+		font-size: 30px;
+	}
+
+	.row-2-image-2 .mb-5 {
+		margin-bottom: 10px !important;
+		font-size: 30px;
+	}
+
+	.row-3-text-middle {
+		padding: 0px 20px;
+	}
+
+	.btn-custom {
+		font-size: 20px;
+	}
+
+	.about-content {
+		padding: 0px;
+	}
+
+	.row-5-text {
+		line-height: 80px;
+	}
+
+	.visit {
+		padding: 0px 20px;
+	}
+
+	.visit .btn-custom {
+		width: 100%;
 	}
 }
 

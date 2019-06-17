@@ -113,3 +113,29 @@
 .view-products {
 	margin: auto;
 }
+
+@media only screen and (max-width: 600px) {
+	.our-story-img {
+		height: 300px;
+	}
+
+	.img-caption {
+		bottom: 370px;
+		color: white;
+		font-size: 30px;
+	}
+
+	.col-left,
+	.col-right {
+		width: 100%;
+		text-align: left;
+	}
+
+	.support-text {
+		font-size: 25px;
+	}
+
+	.product {
+		padding: 0px 30px;
+	}
+}
